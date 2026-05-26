@@ -1,9 +1,8 @@
-pyarrow==14.0.1
-datasets==2.16.1
 torch
 torchvision
 scikit-learn
 joblib
 pandas
 numpy
+datasets==2.16.1
 mamba-lens
